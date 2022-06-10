@@ -1,0 +1,1 @@
+labels = {'cardboard','compost','glass','metal','paper','plastic'}
