@@ -12,6 +12,8 @@ For the dataset we use [These Github](https://github.com/sarahmfrost/compostnet)
 * plastic
 
 ## Architecture
+For our model we use transfer learning method for this project, We use VGG16 architecture which is a convolutional neural network that is 16 layers deep and we add a few more layers on top of that, you can see the detail about our model below
+
 ![final_model_plot](https://user-images.githubusercontent.com/73216938/173172380-016b6b68-0cf5-48d0-8b8b-952657bd8d32.png)
 
 ## Result
