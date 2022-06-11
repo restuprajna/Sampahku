@@ -2,7 +2,7 @@
 image-classification on type of waste
 
 ## Dataset
-For the dataset we use [These](https://github.com/sarahmfrost/compostnet) dataset from Sarah Frost, Bryan Tor, Rakshit Agrawal, Angus G. Forbes use for compostnet. The original dataset contain 7 class of waste type glass, paper, cardboard, plastic, metal, trash with contain 2.751 photo of waste in total. But for our dataset we deleted the trash class so the final class that we use for this project is:
+For the dataset we use [These Github](https://github.com/sarahmfrost/compostnet) dataset from Sarah Frost, Bryan Tor, Rakshit Agrawal, Angus G. Forbes use for compostnet. The original dataset contain 7 class of waste type glass, paper, cardboard, plastic, metal, trash with contain 2.751 photo of waste in total. But for our dataset we deleted the trash class so the final class that we use for this project is:
 
 * cardboard
 * compost
