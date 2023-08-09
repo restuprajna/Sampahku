@@ -1,5 +1,6 @@
 # Sampahku
 image-classification on type of waste
+Demo Sampahku app [click here](https://www.youtube.com/watch?v=hOKI60cqvV8&t=12s)
 
 ## Depedencies
 * tensorflow 2.9.1
