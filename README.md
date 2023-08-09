@@ -1,5 +1,5 @@
 # Sampahku
-image-classification on type of waste
+image-classification on type of waste <br />
 Demo Sampahku app [click here](https://www.youtube.com/watch?v=hOKI60cqvV8&t=12s)
 
 ## Depedencies
