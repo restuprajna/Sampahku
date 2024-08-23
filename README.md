@@ -33,6 +33,6 @@ our losses also is preety low
 <img width="470" alt="training and validation loss" src="https://user-images.githubusercontent.com/73216938/173172521-b8161c04-0102-4d08-acfd-bbaa2a92ed5a.png">
 
 ## Demo App
-<a href="https://youtu.be/jmW2Vx81aC0">
+<a href="https://youtu.be/hOKI60cqvV8">
     <img src="https://img.youtube.com/vi/hOKI60cqvV8/maxresdefault.jpg" alt="Watch the video" width="400"/>
 </a>
